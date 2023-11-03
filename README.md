@@ -1,2 +1,3 @@
 # miikapaal.github.io
-Repository for personal (academic) website.
+
+Personal website, using the [minimal](https://github.com/pages-themes/minimal) theme.
