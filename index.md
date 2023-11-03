@@ -2,14 +2,14 @@
 layout: default
 ---
 
-# Welcome!
+# Welcome
 
 I am a PhD student in Economics at the Department of Economics, Stockholm University.
 
 My research interests are in Labor, Public, and Health Economics.
 
 **Email:** [miika-matias.paallysaho@su.se](mailto:<miika-matias.paallysaho@su.se>)  
-CV, [Google Scholar](https://scholar.google.com/citations?user=6Z3JJzoAAAAJ&hl=en&oi=ao), [Twitter/X](https://twitter.com/mpaallysaho?lang=en)
+[CV](./assets/pdf/cv.pdf), [Google Scholar](https://scholar.google.com/citations?user=6Z3JJzoAAAAJ&hl=en&oi=ao), [Twitter/X](https://twitter.com/mpaallysaho?lang=en)
 
 ## Publications
 
