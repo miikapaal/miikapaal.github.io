@@ -23,7 +23,8 @@ My research interests are in Labor, Public, and Health Economics.
 
 ## Work in Progress
 
-"Unemployment Insurance Generosity and Health: Evidence from Sweden"
+"Unemployment Insurance Generosity and Health: Evidence from Sweden"  
+(with [Arash Nekoei](https://sites.google.com/site/arashnekoei/) and [David Seim](http://www.davidseim.com))
 
 "Unequal Access to Medical Innovations: Evidence from Sweden"  
 (with [Fabian Sinn](https://www.fabiansinn.com))
