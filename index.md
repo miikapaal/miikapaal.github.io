@@ -26,10 +26,11 @@ My research interests are in Labor, Public, and Health Economics.
 "Unemployment Insurance Generosity and Health: Evidence from Sweden"  
 (with [Arash Nekoei](https://sites.google.com/site/arashnekoei/) and [David Seim](http://www.davidseim.com))
 
-"Unequal Access to Medical Innovations: Evidence from Sweden"  
+"Adoption of Medical Innovations Across Hospitals and Socioeconomic Groups: Evidence from Sweden"  
 (with [Fabian Sinn](https://www.fabiansinn.com))
 
-"Family-Level Stress and Children’s Educational Choice: Evidence from Parent Layoffs" (with [Julia Tanndal](https://www.cornerstone.com/professionals/julia-tanndal/))
+"Family-Level Stress and Children’s Educational Choice: Evidence from Parent Layoffs"  
+(with [Julia Tanndal](https://www.cornerstone.com/professionals/julia-tanndal/))
 
 ## Policy Work (in Finnish)
 
