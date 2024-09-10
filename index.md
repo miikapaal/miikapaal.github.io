@@ -4,16 +4,18 @@ layout: default
 
 # Bio
 
-I am a PhD student in Economics at the Department of Economics, Stockholm University.
-
-I will join the [VATT Institute for Economic Research](https://vatt.fi/en/frontpage) (Helsinki, Finland) as a Senior Researcher in September 2024.
+I am a Senior Researcher at the [VATT Institute for Economic Research](https://vatt.fi/en/frontpage) (Helsinki, Finland) and a PhD student in Economics at the Department of Economics, Stockholm University.
 
 My research interests are in Labor, Public, and Health Economics.
 
-**Email:** [miika-matias.paallysaho@su.se](mailto:<miika-matias.paallysaho@su.se>)  
+**Email:** [miika.paallysaho@vatt.fi](mailto:<miika.paallysaho@vatt.fi>), [miika-matias.paallysaho@su.se](mailto:<miika-matias.paallysaho@su.se>)  
 [CV](./assets/pdf/cv.pdf), [Google Scholar](https://scholar.google.com/citations?user=6Z3JJzoAAAAJ&hl=en&oi=ao), [Twitter/X](https://twitter.com/mpaallysaho?lang=en)
 
 ## Publications
+
+["Essays in Labor, Public, and Health Economics"](http://urn.kb.se/resolve?urn=urn:nbn:se:su:diva-232838) (*Doctoral dissertation*)  
+*Dissertations in Economics 2024:4. Stockholm, Sweden: Department of Economics, Stockholm University. September 2024.*  
+[PDF](./assets/pdf/dissertation.pdf)
 
 ["Labor Market Returns and the Evolution of Cognitive Skills: Theory and Evidence"](https://academic.oup.com/qje/article-abstract/137/4/2309/6570716)
 (with [Santiago Hermo](https://santiagohermo.github.io), [David Seim](http://www.davidseim.com), and [Jesse M. Shapiro](https://scholar.harvard.edu/shapiro))  
