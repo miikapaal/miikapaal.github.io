@@ -4,18 +4,19 @@ layout: default
 
 # Bio
 
-I am a Senior Researcher at the [VATT Institute for Economic Research](https://vatt.fi/en/frontpage) (Helsinki, Finland) and a PhD student in Economics at the Department of Economics, Stockholm University.
+I am a Senior Researcher at the [VATT Institute for Economic Research](https://vatt.fi/en/frontpage).   
+I work on topics in Labor, Public, and Health Economics.
 
-My research interests are in Labor, Public, and Health Economics.
+I received my PhD in Economics from Stockholm University in October 2024.
 
-**Email:** [miika.paallysaho@vatt.fi](mailto:<miika.paallysaho@vatt.fi>), [miika-matias.paallysaho@su.se](mailto:<miika-matias.paallysaho@su.se>)  
-[CV](./assets/pdf/cv.pdf), [Google Scholar](https://scholar.google.com/citations?user=6Z3JJzoAAAAJ&hl=en&oi=ao), [Twitter/X](https://twitter.com/mpaallysaho?lang=en)
+**Email:** [miika.paallysaho@vatt.fi](mailto:<miika.paallysaho@vatt.fi>)  
+[CV](./assets/pdf/cv.pdf), [Google Scholar](https://scholar.google.com/citations?user=6Z3JJzoAAAAJ&hl=en&oi=ao), [Twitter/X](https://twitter.com/mpaallysaho?lang=en), [GitHub](https://github.com/miikapaal)
 
 ## Publications
 
 ["Essays in Labor, Public, and Health Economics"](http://urn.kb.se/resolve?urn=urn:nbn:se:su:diva-232838) (*Doctoral dissertation*)  
 *Dissertations in Economics 2024:4. Stockholm, Sweden: Department of Economics, Stockholm University. September 2024.*  
-[PDF](./assets/pdf/dissertation.pdf)
+[[PDF]](./assets/pdf/dissertation.pdf)
 
 ["Labor Market Returns and the Evolution of Cognitive Skills: Theory and Evidence"](https://academic.oup.com/qje/article-abstract/137/4/2309/6570716)
 (with [Santiago Hermo](https://santiagohermo.github.io), [David Seim](http://www.davidseim.com), and [Jesse M. Shapiro](https://scholar.harvard.edu/shapiro))  
@@ -24,6 +25,14 @@ My research interests are in Labor, Public, and Health Economics.
 *Coverage:* [The Guardian](https://www.theguardian.com/commentisfree/2021/aug/29/iqs-are-on-the-rise-but-we-dont-need-hard-facts-any-more), [Rate.com](https://www.rate.com/research/news/fluid-intelligence), [Marginal Revolution](https://marginalrevolution.com/marginalrevolution/2022/05/sunday-assorted-links-364.html), [VoxEU](https://cepr.org/voxeu/columns/economic-incentives-help-explain-longstanding-puzzle-cognitive-science), [WEF](https://www.weforum.org/agenda/2022/07/flynn-effect-economic-incentives-cognitive-science/), [Talous & Yhteiskunta](https://labore.fi/t&y/voivatko-taloudelliset-kannustimet-vaikuttaa-alykkyyteen/)
 
 ## Work in Progress
+
+"Cognitive and Non-Cognitive Skills in General Equilibrium: Theory and Evidence"
+
+"Skills and Urban Wage-Premia"  
+(with [Mikko Silliman](https://sites.google.com/site/mikkosilliman) and [Pablo Warnes](https://pewarnes.github.io))
+
+"Disability Insurance and Healthcare Use: Evidence and Implications"  
+(with [Jens Wikström](https://sites.google.com/view/jenswikstrom))
 
 "Unemployment Insurance Generosity and Health: Evidence from Sweden"  
 (with [Arash Nekoei](https://sites.google.com/site/arashnekoei/) and [David Seim](http://www.davidseim.com))
