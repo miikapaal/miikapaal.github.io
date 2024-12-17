@@ -4,7 +4,7 @@ layout: default
 
 # Bio
 
-I am a Senior Researcher at the [VATT Institute for Economic Research](https://vatt.fi/en/frontpage).   
+I am a Senior Researcher at the [VATT Institute for Economic Research](https://vatt.fi/en/frontpage).  
 I work on topics in Labor, Public, and Health Economics.
 
 I received my PhD in Economics from Stockholm University in October 2024.
@@ -21,7 +21,7 @@ I received my PhD in Economics from Stockholm University in October 2024.
 ["Labor Market Returns and the Evolution of Cognitive Skills: Theory and Evidence"](https://academic.oup.com/qje/article-abstract/137/4/2309/6570716)
 (with [Santiago Hermo](https://santiagohermo.github.io), [David Seim](http://www.davidseim.com), and [Jesse M. Shapiro](https://scholar.harvard.edu/shapiro))  
 *Quarterly Journal of Economics*, 2022, 137(4): 2309–2361.  
-[Pre-print](./assets/pdf/HermoPaallysahoSeimShapiroQJE2022_Skills.pdf), [Replication package](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/KP9RZX), [LaroplanOCR](https://github.com/JMSLab/LaroplanOCR)  
+[Pre-print](./assets/pdf/hermo-paallysaho-seim-shapiro-2022-qje-skills.pdf), [Replication package](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/KP9RZX), [LaroplanOCR](https://github.com/JMSLab/LaroplanOCR)  
 *Coverage:* [The Guardian](https://www.theguardian.com/commentisfree/2021/aug/29/iqs-are-on-the-rise-but-we-dont-need-hard-facts-any-more), [Rate.com](https://www.rate.com/research/news/fluid-intelligence), [Marginal Revolution](https://marginalrevolution.com/marginalrevolution/2022/05/sunday-assorted-links-364.html), [VoxEU](https://cepr.org/voxeu/columns/economic-incentives-help-explain-longstanding-puzzle-cognitive-science), [WEF](https://www.weforum.org/agenda/2022/07/flynn-effect-economic-incentives-cognitive-science/), [Talous & Yhteiskunta](https://labore.fi/t&y/voivatko-taloudelliset-kannustimet-vaikuttaa-alykkyyteen/)
 
 ## Work in Progress
@@ -31,8 +31,8 @@ I received my PhD in Economics from Stockholm University in October 2024.
 "Skills and Urban Wage-Premia"  
 (with [Mikko Silliman](https://sites.google.com/site/mikkosilliman) and [Pablo Warnes](https://pewarnes.github.io))
 
-"Disability Insurance and Healthcare Use: Evidence and Implications"  
-(with [Jens Wikström](https://sites.google.com/view/jenswikstrom))
+"Disability Insurance and Health: Evidence and Implications"  
+(with [Arash Nekoei](https://sites.google.com/site/arashnekoei/), [David Seim](http://www.davidseim.com), and [Jens Wikström](https://sites.google.com/view/jenswikstrom))
 
 "Unemployment Insurance Generosity and Health: Evidence from Sweden"  
 (with [Arash Nekoei](https://sites.google.com/site/arashnekoei/) and [David Seim](http://www.davidseim.com))
