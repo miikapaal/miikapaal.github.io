@@ -26,13 +26,16 @@ I received my PhD in Economics from Stockholm University in October 2024.
 
 ## Work in Progress
 
-"Cognitive and Non-Cognitive Skills in General Equilibrium: Theory and Evidence"
+"Multidimensional Skills in General Equilibrium: Theory and Evidence" (single-authored)
 
-"Skills and Urban Wage-Premia"  
+"The Polarization of Skill across Space and Time"  
 (with [Mikko Silliman](https://sites.google.com/site/mikkosilliman) and [Pablo Warnes](https://pewarnes.github.io))
 
 "Disability Insurance and Health: Evidence and Implications"  
 (with [Arash Nekoei](https://sites.google.com/site/arashnekoei/), [David Seim](http://www.davidseim.com), and [Jens Wikström](https://sites.google.com/view/jenswikstrom))
+
+"Decomposing Trends in the PISA Study"  
+(with [Jani Kuhakoski](https://labore.fi/author/jani-petteri-ollikainen/) and [Roope Uusitalo](https://vatt.fi/uusitalo-roope))
 
 "Unemployment Insurance Generosity and Health: Evidence from Sweden"  
 (with [Arash Nekoei](https://sites.google.com/site/arashnekoei/) and [David Seim](http://www.davidseim.com))
