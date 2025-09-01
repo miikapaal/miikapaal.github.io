@@ -1,3 +1,4 @@
+# General
 _site
 .sass-cache
 Gemfile.lock
@@ -5,3 +6,6 @@ Gemfile.lock
 .jekyll-cache
 .DS_Store
 runme.md
+
+# Papers (remove once ready to circulate)
+assets/pdf/paallysaho-2025-ui-health.pdf
