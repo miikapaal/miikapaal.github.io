@@ -26,8 +26,8 @@ I received my PhD in Economics from Stockholm University in October 2024.
 
 ## Working Papers
 
-"Unemployment Insurance Generosity and Healthcare Use: Evidence from Sweden"  
-(single-authored)
+["Unemployment Insurance Generosity and Healthcare Use: Evidence from Sweden"](./assets/pdf/paallysaho-2025-ui-health.pdf) (single-authored)  
+[[PDF]](./assets/pdf/paallysaho-2025-ui-health.pdf)
 
 ## Work in Progress
 
