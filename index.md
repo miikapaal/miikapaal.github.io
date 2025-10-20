@@ -58,7 +58,7 @@ Publications of the Government’s Analysis, Assessment and Research Activities,
 
 ["The Short- and Long-Term Effects of Graduating During a Recession: Evidence from Finland"](http://vatt.fi/documents/2956369/4541479/wp96.pdf/cd64ccc0-7c4e-4a25-b520-4f42dbc32849)  
 *VATT Working Papers 96*, 2017. Adapted from [Master's thesis](https://helda.helsinki.fi/handle/10138/193652).  
-*Media:* Helsingin Sanomat ([2020](https://www.hs.fi/mielipide/art-2000006515416.html), [2025](https://www.hs.fi/suomi/art-2000011256911.html)), [Uutissuomalainen](https://www.ksml.fi/kotimaa/Korona-voi-nakertaa-nuorten-palkkoja-jopa-vuosien-ajan-%E2%80%93-tuleeko-kolmikymppisist%C3%A4-2020-luvun-h%C3%A4vi%C3%A4ji%C3%A4/1563814?pwbi=803b90fcf706ef7f068e34156f8b896e), [Työelämän tutkimus](https://journal.fi/tyoelamantutkimus/article/view/87120)
+*Media:* Helsingin Sanomat ([2020](https://www.hs.fi/mielipide/art-2000006515416.html), [2025](https://www.hs.fi/suomi/art-2000011256911.html)), [Yle](https://yle.fi/a/74-20188770), [Uutissuomalainen](https://www.ksml.fi/kotimaa/Korona-voi-nakertaa-nuorten-palkkoja-jopa-vuosien-ajan-%E2%80%93-tuleeko-kolmikymppisist%C3%A4-2020-luvun-h%C3%A4vi%C3%A4ji%C3%A4/1563814?pwbi=803b90fcf706ef7f068e34156f8b896e), [Työelämän tutkimus](https://journal.fi/tyoelamantutkimus/article/view/87120)
 
 ## Resources
 
