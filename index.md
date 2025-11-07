@@ -4,7 +4,8 @@ layout: default
 
 # About Me
 
-I am a Senior Researcher at the [VATT Institute for Economic Research](https://vatt.fi/en/frontpage).  
+I am a Senior Researcher at the [VATT Institute for Economic Research](https://vatt.fi/en/frontpage) (Helsinki, Finland) and a Research Affiliate at [ROCKWOOL Foundation Berlin](https://www.rfberlin.com/) (RFBerlin).
+
 I work on topics in Labor, Public, and Health Economics.
 
 I received my PhD in Economics from Stockholm University in October 2024.
@@ -38,6 +39,9 @@ I received my PhD in Economics from Stockholm University in October 2024.
 
 "Decomposing Trends in the PISA Study"  
 (with [Jani Kuhakoski](https://labore.fi/author/jani-petteri-ollikainen/) and [Roope Uusitalo](https://vatt.fi/uusitalo-roope))
+
+"Disability Insurance and Health: Evidence and Implications"  
+(with [Arash Nekoei](https://sites.google.com/site/arashnekoei/home), [David Seim](https://www.davidseim.com/), and [Jens Wikström](https://sites.google.com/view/jenswikstrom))
 
 "Adoption of Medical Innovations Across Hospitals and Socioeconomic Groups: Evidence from Sweden"  
 (with [Fabian Sinn](https://www.fabiansinn.com))
