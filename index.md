@@ -4,7 +4,7 @@ layout: default
 
 # About Me
 
-I am a Senior Researcher at the [VATT Institute for Economic Research](https://vatt.fi/en/frontpage) (Helsinki, Finland) and a Research Affiliate at [ROCKWOOL Foundation Berlin](https://www.rfberlin.com/) (RFBerlin).
+I am a Senior Researcher at the [VATT Institute for Economic Research](https://vatt.fi/en/frontpage) (Helsinki, Finland) and a Research Affiliate at [ROCKWOOL Foundation Berlin](https://www.rfberlin.com/author/miika-paallysaho/) (RFBerlin).
 
 I work on topics in Labor, Public, and Health Economics.
 
@@ -17,7 +17,7 @@ I received my PhD in Economics from Stockholm University in October 2024.
 
 ["Essays in Labor, Public, and Health Economics"](http://urn.kb.se/resolve?urn=urn:nbn:se:su:diva-232838) (*Doctoral dissertation*)  
 *Dissertations in Economics 2024:4. Stockholm, Sweden: Department of Economics, Stockholm University. September 2024.*  
-[[PDF]](./assets/pdf/dissertation.pdf)
+[[PDF]](./assets/pdf/paallysaho-2024-essays-in-labor-public-and-health-economics.pdf)
 
 ["Labor Market Returns and the Evolution of Cognitive Skills: Theory and Evidence"](https://academic.oup.com/qje/article-abstract/137/4/2309/6570716)
 (with [Santiago Hermo](https://santiagohermo.github.io), [David Seim](http://www.davidseim.com), and [Jesse M. Shapiro](https://scholar.harvard.edu/shapiro))  
@@ -27,14 +27,19 @@ I received my PhD in Economics from Stockholm University in October 2024.
 
 ## Working Papers
 
-["Unemployment Insurance Generosity and Healthcare Use: Evidence from Sweden"](./assets/pdf/paallysaho-2025-ui-health.pdf) (single-authored)  
-[[PDF]](./assets/pdf/paallysaho-2025-ui-health.pdf)
+["Unemployment Insurance Generosity and Healthcare Use: Evidence from Sweden"](./assets/pdf/paallysaho-2026-ui-health.pdf), *submitted* (single-authored)  
+[Paper](./assets/pdf/paallysaho-2026-ui-health.pdf)
+<!-- [VATT Working Paper](xxx) -->
+<!-- [RFBerlin Discussion Paper](xxx) -->
+<!-- [Slides](./assets/pdf/paallysaho-2026-ui-health-slides.pdf) -->
+<!-- [Poster](./assets/pdf/paallysaho-2026-ui-health-poster.pdf) -->
+<!-- *Media:* [VATT blog](xxx) -->
 
 ## Work in Progress
 
 "Multidimensional Skills in General Equilibrium: Theory and Evidence" (single-authored)
 
-"The Polarization of Skill across Space and Time"  
+"Multidimensional Skills and Spatial Sorting"  
 (with [Mikko Silliman](https://sites.google.com/site/mikkosilliman) and [Pablo Warnes](https://pewarnes.github.io))
 
 "Decomposing Trends in the PISA Study"  
@@ -51,10 +56,10 @@ I received my PhD in Economics from Stockholm University in October 2024.
 
 ## Policy Work (in Finnish)
 
-["Työvoimapalvelujen vaikuttavuus taloustieteellisessä tutkimuskirjallisuudessa"](https://www.vtv.fi/app/uploads/2020/06/VTV-Selvitys-2-2020-Tyovoimapalvelujen-vaikuttavuus-taloustieteellisessa-tutkimuskirjallisuudessa.pdf) ("The Effectiveness of Active Labor Market Policies in the Economics Literature")  
+["Työvoimapalvelujen vaikuttavuus taloustieteellisessä tutkimuskirjallisuudessa"](https://vtv.fi/wp-content/uploads/2025/08/VTV-Selvitys-2-2020-Tyovoimapalvelujen-vaikuttavuus-taloustieteellisessa-tutkimuskirjallisuudessa.pdf) ("The Effectiveness of Active Labor Market Policies in the Economics Literature")  
 Report commissioned by the [National Audit Office of Finland](https://www.vtv.fi/en), 2020.
 
-["Palkkatuen vaikuttavuus – palkkatukijärjestelmän ja sen uudistuksien arviointi"](http://julkaisut.valtioneuvosto.fi/bitstream/handle/10024/161235/75-2018-Palkkatuki.pdf) ("The Impact of Wage Subsidies – An Evaluation of the Wage Subsidy System and Its Reforms")  
+["Palkkatuen vaikuttavuus – palkkatukijärjestelmän ja sen uudistuksien arviointi"](http://urn.fi/URN:ISBN:%20978-952-287-626-3) ("The Impact of Wage Subsidies – An Evaluation of the Wage Subsidy System and Its Reforms")  
 (with Rita Asplund, [Antti Kauhanen](https://sites.google.com/view/antti-kauhanen/home), and [Pekka Vanhala](https://www.etla.fi/henkilot/vanhala-pekka/))  
 Publications of the Government’s Analysis, Assessment and Research Activities, 75/2018.
 
@@ -62,7 +67,7 @@ Publications of the Government’s Analysis, Assessment and Research Activities,
 
 ["The Short- and Long-Term Effects of Graduating During a Recession: Evidence from Finland"](http://vatt.fi/documents/2956369/4541479/wp96.pdf/cd64ccc0-7c4e-4a25-b520-4f42dbc32849)  
 *VATT Working Papers 96*, 2017. Adapted from [Master's thesis](https://helda.helsinki.fi/handle/10138/193652).  
-*Media:* [Helsingin Sanomat](https://www.hs.fi/mielipide/art-2000006515416.html) [[1](https://www.hs.fi/mielipide/art-2000006515416.html), [2](https://www.hs.fi/suomi/art-2000011256911.html)], [Yle](https://yle.fi/a/74-20188770) [[1](https://yle.fi/a/74-20188770), [2](https://areena.yle.fi/1-72362012?utm_medium=social&utm_campaign=areena-web-share&utm_source=copy-link-share)], [Ilta-Sanomat](https://www.is.fi/taloussanomat/art-2000011575614.html), [Uutissuomalainen](https://www.ksml.fi/kotimaa/Korona-voi-nakertaa-nuorten-palkkoja-jopa-vuosien-ajan-%E2%80%93-tuleeko-kolmikymppisist%C3%A4-2020-luvun-h%C3%A4vi%C3%A4ji%C3%A4/1563814?pwbi=803b90fcf706ef7f068e34156f8b896e), [Työelämän tutkimus](https://journal.fi/tyoelamantutkimus/article/view/87120)
+*Media:* [Helsingin Sanomat](https://www.hs.fi/mielipide/art-2000006515416.html) [[1](https://www.hs.fi/mielipide/art-2000006515416.html), [2](https://www.hs.fi/suomi/art-2000011256911.html)], [Yle](https://yle.fi/a/74-20188770) [[1](https://yle.fi/a/74-20188770), [2](https://areena.yle.fi/1-72362012?utm_medium=social&utm_campaign=areena-web-share&utm_source=copy-link-share)], [Ilta-Sanomat](https://www.is.fi/taloussanomat/art-2000011575614.html), [Talouselämä](https://www.talouselama.fi/uutiset/a/a80c95e4-1f9f-4d40-8242-1e90bc321157), [Uutissuomalainen](https://www.ksml.fi/kotimaa/Korona-voi-nakertaa-nuorten-palkkoja-jopa-vuosien-ajan-%E2%80%93-tuleeko-kolmikymppisist%C3%A4-2020-luvun-h%C3%A4vi%C3%A4ji%C3%A4/1563814?pwbi=803b90fcf706ef7f068e34156f8b896e), [Työelämän tutkimus](https://journal.fi/tyoelamantutkimus/article/view/87120)
 
 ## Resources
 
