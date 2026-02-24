@@ -27,13 +27,12 @@ I received my PhD in Economics from Stockholm University in October 2024.
 
 ## Working Papers
 
-["Unemployment Insurance Generosity and Healthcare Use: Evidence from Sweden"](./assets/pdf/paallysaho-2026-ui-health.pdf), *submitted* (single-authored)  
-[Paper](./assets/pdf/paallysaho-2026-ui-health.pdf)
-<!-- [VATT Working Paper](xxx) -->
+["Unemployment Insurance Generosity and Healthcare Use: Evidence from Sweden"](./assets/pdf/paallysaho-2026-ui-health.pdf) (single-authored)  
+[Paper](./assets/pdf/paallysaho-2026-ui-health.pdf), [VATT Working Paper](https://urn.fi/URN:NBN:fi-fe2026021914542)  
 <!-- [RFBerlin Discussion Paper](xxx) -->
 <!-- [Slides](./assets/pdf/paallysaho-2026-ui-health-slides.pdf) -->
 <!-- [Poster](./assets/pdf/paallysaho-2026-ui-health-poster.pdf) -->
-<!-- *Media:* [VATT blog](xxx) -->
+*Media:* [VATT blog](https://vatt.fi/en/-/do-changes-in-unemployment-insurance-affect-healthcare-costs-)
 
 ## Work in Progress
 
