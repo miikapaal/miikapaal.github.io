@@ -29,10 +29,10 @@ I received my PhD in Economics from Stockholm University in October 2024.
 
 ["Unemployment Insurance Generosity and Healthcare Use: Evidence from Sweden"](./assets/pdf/paallysaho-2026-ui-health.pdf) (single-authored)  
 [Paper](./assets/pdf/paallysaho-2026-ui-health.pdf),
+[Slides](./assets/pdf/paallysaho-2026-ui-health-slides.pdf),
+[Poster](./assets/pdf/paallysaho-2026-ui-health-poster.pdf),
 [VATT Working Paper](https://urn.fi/URN:NBN:fi-fe2026021914542),
 [RFBerlin Discussion Paper](https://www.rfberlin.com/wp-content/uploads/2026/02/26059.pdf)  
-<!-- [Slides](./assets/pdf/paallysaho-2026-ui-health-slides.pdf) -->
-<!-- [Poster](./assets/pdf/paallysaho-2026-ui-health-poster.pdf) -->
 *Media:* [VATT blog](https://vatt.fi/en/-/do-changes-in-unemployment-insurance-affect-healthcare-costs-)
 
 ## Work in Progress
@@ -70,6 +70,9 @@ Publications of the Government’s Analysis, Assessment and Research Activities,
 *Media:* [Helsingin Sanomat](https://www.hs.fi/mielipide/art-2000006515416.html) [[1](https://www.hs.fi/mielipide/art-2000006515416.html), [2](https://www.hs.fi/suomi/art-2000011256911.html)], [Yle](https://yle.fi/a/74-20188770) [[1](https://yle.fi/a/74-20188770), [2](https://areena.yle.fi/1-72362012?utm_medium=social&utm_campaign=areena-web-share&utm_source=copy-link-share)], [Ilta-Sanomat](https://www.is.fi/taloussanomat/art-2000011575614.html), [Talouselämä](https://www.talouselama.fi/uutiset/a/a80c95e4-1f9f-4d40-8242-1e90bc321157), [Uutissuomalainen](https://www.ksml.fi/kotimaa/Korona-voi-nakertaa-nuorten-palkkoja-jopa-vuosien-ajan-%E2%80%93-tuleeko-kolmikymppisist%C3%A4-2020-luvun-h%C3%A4vi%C3%A4ji%C3%A4/1563814?pwbi=803b90fcf706ef7f068e34156f8b896e), [Työelämän tutkimus](https://journal.fi/tyoelamantutkimus/article/view/87120)
 
 ## Resources
+
+`finland-kunta-crosswalk` --- Data & code for preparing crosswalks of Finnish municipality codes for the period 1970-2025.  
+*Creator.* Available on [GitHub](https://github.com/miikapaal/finland-kunta-crosswalk).
 
 `su-econ-dissertation-template` ---  
 Template for doctoral dissertation in Economics at Stockholm University.  
