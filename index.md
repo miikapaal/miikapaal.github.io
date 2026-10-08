@@ -29,8 +29,6 @@ I received my PhD in Economics from Stockholm University in October 2024.
 
 ["Unemployment Insurance Generosity and Healthcare Use: Evidence from Sweden"](./assets/pdf/paallysaho-2026-ui-health.pdf) (single-authored)  
 [Paper](./assets/pdf/paallysaho-2026-ui-health.pdf),
-[Slides](./assets/pdf/paallysaho-2026-ui-health-slides.pdf),
-[Poster](./assets/pdf/paallysaho-2026-ui-health-poster.pdf),
 [VATT Working Paper](https://urn.fi/URN:NBN:fi-fe2026021914542),
 [RFBerlin Discussion Paper](https://www.rfberlin.com/wp-content/uploads/2026/02/26059.pdf)  
 *Media:* [VATT blog](https://vatt.fi/en/-/do-changes-in-unemployment-insurance-affect-healthcare-costs-)
@@ -42,17 +40,11 @@ I received my PhD in Economics from Stockholm University in October 2024.
 "Multidimensional Skills and Spatial Sorting"  
 (with [Mikko Silliman](https://sites.google.com/site/mikkosilliman) and [Pablo Warnes](https://pewarnes.github.io))
 
-"Decomposing Trends in the PISA Study"  
+"Cognitive Capacity, Cognitive Endurance, and Trends in Student Achievement"  
 (with [Jani Kuhakoski](https://labore.fi/author/jani-petteri-ollikainen/) and [Roope Uusitalo](https://vatt.fi/uusitalo-roope))
 
-"Disability Insurance and Health: Evidence and Implications"  
-(with [Arash Nekoei](https://sites.google.com/site/arashnekoei/home), [David Seim](https://www.davidseim.com/), and [Jens Wikström](https://sites.google.com/view/jenswikstrom))
-
-"Adoption of Medical Innovations Across Hospitals and Socioeconomic Groups: Evidence from Sweden"  
-(with [Fabian Sinn](https://www.fabiansinn.com))
-
-"Family-Level Stress and Children’s Educational Choice: Evidence from Parent Layoffs"  
-(with [Julia Tanndal](https://www.cornerstone.com/professionals/julia-tanndal/))
+”Long-Term Dynamics of Income and Health Inequality in Finland”  
+(with [Matias Giaccobasso](https://mgiaccobasso.com/), [Asfand Yar Khan](https://www.utu.fi/en/people/asfand-yar-khan), [Tuomas Kosonen](https://sites.google.com/view/tuomaskosonen/home), [Krista Kuuttiniemi](https://research.aalto.fi/en/persons/krista-kuuttiniemi/), and [Jukka Pirttilä](https://blogs.helsinki.fi/jpirttil/))
 
 ## Policy Work (in Finnish)
 
